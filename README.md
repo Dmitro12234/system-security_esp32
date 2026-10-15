@@ -1,5 +1,7 @@
 **#🏠  system-security**
 
+**YouTube:** https://youtu.be/FZ1HZD5ZdE0
+
 A smart home security system powered by an ESP32 DevKit V1 microcontroller, a PIR motion sensor, an LED, and a buzzer. The project detects motion, triggers an audible and visual alarm, and provides a web interface for remotely controlling the security system over a local Wi-Fi network.
 
 ✨ Features
